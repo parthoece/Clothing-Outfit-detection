@@ -1,4 +1,4 @@
-# Clothing-Outfit-detection- multiclassification usin ResNet 50
+# Clothing-Outfit-detection- multiclassification using ResNet 50 model
 
 Dataset: https://www.kaggle.com/datasets/agrigorev/clothing-dataset-full
 
